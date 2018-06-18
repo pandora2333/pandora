@@ -1,4 +1,7 @@
-﻿import urllib.request
+﻿'''
+author : pandora
+'''
+import urllib.request
 import urllib.parse
 import json
 import re
